@@ -1,0 +1,12 @@
+MonticuloMinimo
+0 # sí
+		0 #NO debe leer numeros decimales 6
+
+                        # Todavía MÁS elementos
+                        -9 10 11 12
+#Debería leer números negativos
+ -4 -91  -55 
+
+    # Los últimos elementos
+    6 4
+1
